@@ -1,0 +1,492 @@
+[
+  {
+    "college": "Arizona State University",
+    "lat": 33.423061,
+    "lng": -111.922882,
+    "image": "https://www.iesabroad.org/files/styles/gallery_programs_auto_x_650/public/arizona_state_university_campus_10_0.jpg?itok=pS_K2Jov",
+    "students": ["Bronwyn Curnow", "Kylie Chin", "Nikita Kothari", "Calderon Andrea", "Owen Guilbert"]
+  },
+  {
+    "college": "Baylor University",
+    "lat": 31.070827,
+    "lng": -97.466961,
+    "image": "https://2u.com/static/5b66453de976f990da3974d3e1d4b3cb/b90bb/old-main-baylor-university_EfeVwBF.max-2880x1800.jpg",
+    "students": ["Tyler Wong"]
+  },
+  {
+    "college": "Bellevue College",
+    "lat": 47.584397,
+    "lng": -122.149010,
+    "image": "https://catalog.bellevuecollege.edu/mime/media/8/855/catalogcover202122.jpg",
+    "students": ["Daniel Gonzalez"]
+  },
+  {
+    "college": "Biola University",
+    "lat": 33.905854,
+    "lng": -118.015351,
+    "image": "https://assets.biola.edu/4396738754672012438/gallery_photo/6154f79eb2d6f20001f9f57b/campus-lim-46450118255.jpg",
+    "students": ["Ethan Arredondo"]
+  },
+  {
+    "college": "Boise State University",
+    "lat": 43.604200,
+    "lng": -116.203401,
+    "image": "https://idahocapitalsun.com/wp-content/uploads/2021/06/ICS-BSU-210320d3-1602-med_original.jpg",
+    "students": ["Tatum Meade"]
+  },
+  {
+    "college": "Boston University",
+    "lat": 42.350362,
+    "lng": -71.106606,
+    "image": "https://www.cappex.com/sites/default/files/styles/college_hero_desktop/public/images/hero/college/164988_hero.jpg?itok=lBjOiStG",
+    "students": ["Hulbert Yang"]
+  },
+  {
+    "college": "Brigham Young University",
+    "lat": 40.253213,
+    "lng": -111.649686,
+    "image": "https://www.usnews.com/dims4/USNEWS/ce9e067/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fe1%2F58%2Fa361e0ed4fddbfa09c59660f7b98%2F190822brigham-young-university-provo6.jpg",
+    "students": ["Hunter Hurst", "Jacob Walker"]
+  },
+  {
+    "college": "Brigham Young University - Idaho",
+    "lat": 43.814074,
+    "lng": -111.783151,
+    "image": "https://s3-assets.eastidahonews.com/wp-content/uploads/2020/04/16091857/BYU-Idaho.jpg",
+    "students": ["Tanner Vogel"]
+  },
+  {
+    "college": "California Polytechnic State University",
+    "lat": 35.301782,
+    "lng": -120.663614,
+    "image": "https://collegevine.imgix.net/532d0c0f-f608-4089-9395-203fcd9b4701.jpg",
+    "students": ["Joey Poppelaars", "Lynne Chirillo", "Isabella Goveia", "Abigail Weissman"]
+  },
+  {
+    "college": "Cal Poly Ponoma",
+    "lat": 34.059780,
+    "lng": -117.820030,
+    "image": "https://www.cwdriver.com/app/uploads/2016/07/T19_8138.jpg",
+    "students": ["Isabella Goveia"]
+  },
+  {
+    "college": "Carnegie Mellon University",
+    "lat": 40.445036,
+    "lng": -79.945225,
+    "image": "https://media.bizj.us/view/img/12201366/carnegie-mellon-university-0003*1200xx2120-1196-0-218.jpg",
+    "students": ["Wenna Zhang"]
+  },
+  {
+    "college": "Central Washington University",
+    "lat": 47.000338,
+    "lng": -120.542148,
+    "image": "https://ip.wwcc.edu/wp-content/uploads/2019/12/CWU.jpg",
+    "students": ["Parker Foster"]
+  },
+  {
+    "college": "Colorado State University",
+    "lat": 40.571653,
+    "lng": -105.085725,
+    "image": "https://intervarsity.org/sites/default/files/Colorado%20University_0.jpg",
+    "students": ["Hunter Neil"]
+  },
+  {
+    "college": "Columbia University",
+    "lat": 40.808279,
+    "lng": -73.961881,
+    "image": "https://static01.nyt.com/images/2020/03/08/nyregion/08xp-columbia1/08xp-columbia1-superJumbo.jpg",
+    "students": ["Connie Huang"]
+  },
+  {
+    "college": "Cornell University",
+    "lat": 42.452096,
+    "lng": -76.480320,
+    "image": "https://www.cornell.edu/visit/assets/images/video-poster.jpg",
+    "students": ["Chris Johnson", "Jacqueline Cai", "Mallika Ketkar", "Ketki Ketkar"]
+  },
+  {
+    "college": "University of Colorado Boulder",
+    "lat": 40.006871,
+    "lng": -105.266372,
+    "image": "https://www.usnews.com/dims4/USNEWS/53fab75/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fb7%2F029f7721431e45fe47d6a961289c63%2FCUBouder_Campuslife1.JPG",
+    "students": ["Kate Morgan", "Grace Bourgoin"]
+  },
+  {
+    "college": "Emerson College",
+    "lat": 42.352249,
+    "lng": -71.065721,
+    "image": "https://www.usnews.com/dims4/USNEWS/1980cdc/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F8e%2F532e9b15be6366a94a677688fc991c%2Fcollege-photo_10342.jpg",
+    "students": ["Gavin Miller"]
+  },
+  {
+    "college": "Gonzaga University",
+    "lat": 47.666641,
+    "lng": -117.402267,
+    "image": "https://www.usnews.com/dims4/USNEWS/53216f1/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fc2%2F93f11440babd41bacc24e6cc1e8e65%2FCollege_Hall_US_News.jpg",
+    "students": ["Seeley Lester"]
+  },
+  {
+    "college": "Harvard University",
+    "lat": 42.376332,
+    "lng": -71.116809,
+    "image": "https://cdn.britannica.com/69/141169-050-CD5892EB/Baker-Library-Harvard-Business-School-Boston-University.jpg",
+    "students": ["Ryan Grace"]
+  },
+  {
+    "college": "Indiana University",
+    "lat": 39.169589,
+    "lng": -86.518895,
+    "image": "https://www.wsws.org/asset/df4727dc-c2a1-46cb-b6f6-7f94e2640f18?rendition=image1280",
+    "students": ["Mounica Policharla", "Pranav Rangaswami", "Aditya Shivakumar"]
+  },
+  {
+    "college": "Loyola Marymount University",
+    "lat": 33.970783,
+    "lng": -118.419149,
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/44772c9/2147483647/strip/true/crop/5464x3070+0+0/resize/1486x835!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fee%2F82%2F0ed59a8548378a1d4d5dad5ae631%2Flmu-2018dronestills226.jpg",
+    "students": ["Paula Valdez"]
+  },
+  {
+    "college": "Montana State University",
+    "lat": 45.667494,
+    "lng": -111.049338,
+    "image": "https://www.usnews.com/dims4/USNEWS/ebc2287/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Fe4%2F3f15b8579684f5917c648d322d3504%2Fcollege-photo_34544.jpg",
+    "students": ["Aidyn Clark", "Alexander Hammingh"]
+  },
+  {
+    "college": "United States Naval Academy",
+    "lat": 38.981194,
+    "lng": -76.485857,
+    "image": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/annapolis/119_3_5438_jpeg_1_02e5b0a2-95d7-454e-a065-ce38aa404fb2.jpg",
+    "students": ["Sanya Tamhane"]
+  },
+  {
+    "college": "New York University",
+    "lat": 38.904034,
+    "lng": -77.030274,
+    "image": "https://www.usnews.com/dims4/USNEWS/72c90e6/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F9d%2Fd819230374ef6531890bb7eee1dac0%2FNYU_WSP_Header.jpg",
+    "students": ["Samarth Gandhi"]
+  },
+  {
+    "college": "Northeastern University",
+    "lat": 42.339871,
+    "lng": -71.088785,
+    "image": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/2000xAny/2/7/8/513278_shutterstock_1544594165_719610.jpg",
+    "students": ["Pavan Kotti"]
+  },
+  {
+    "college": "Oregon State University",
+    "lat": 44.563942,
+    "lng": -123.274673,
+    "image": "https://oregonstate.edu/sites/default/files/2021-03/default-meta-image-1200x630.jpg",
+    "students": ["Ben Weissman"]
+  },
+  {
+    "college": "Pennsylvania State University",
+    "lat": 40.808843,
+    "lng": -77.867716,
+    "image": "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210520033631-file-penn-state-university.jpg",
+    "students": ["Estefania Liendo", "Achyuthaa Parthasarathy"]
+  },
+  {
+    "college": "Pepperdine University",
+    "lat": 34.039618,
+    "lng": -118.707801,
+    "image": "https://www.pepperdine.edu/about/images/222375-malibu-campus-full.jpg",
+    "students": ["Charles Goldthwait"]
+  },
+  {
+    "college": "Purdue University",
+    "lat": 40.423168,
+    "lng": -86.921319,
+    "image": "https://www.purdue.edu/uns/images/2020/MemorialMall.JPG",
+    "students": ["Varnon Srinivasan", "Christopher Cruz", "Prithvi Rangaswami", "Meena Radhakrishnan"]
+  },
+  {
+    "college": "University of Redlands",
+    "lat": 34.063381,
+    "lng": -117.163420,
+    "image": "https://uorepicdn-ir.azureedge.net/contentassets/f614d492d50c4e96a972dafb03c14f0b/homepage-gallery-redlands-1-820x420.jpg?w=820&h=420&mode=crop",
+    "students": ["Amelia Bassler"]
+  },
+  {
+    "college": "Saint Louis University",
+    "lat": 38.636425,
+    "lng": -90.233331,
+    "image": "https://images.shiksha.com/mediadata/images/1538490925phpoMzyuy.jpeg",
+    "students": ["Aayushi Dhebar"]
+  },
+  {
+    "college": "San Diego State University",
+    "lat": 32.775169,
+    "lng": -117.071579,
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/34f3de1/2147483647/strip/true/crop/5464x3640+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F93%2F94%2Fcbec3c8b4b48a41523cdf27d206a%2F927947-sd-oe-tejada-esteban-ncc-001.jpg",
+    "students": ["Brandon Junker", "Nolan Lee", "Stephanie Shilov", "Hailey Kiehn", "Danna Wate"]
+  },
+  {
+    "college": "Santa Clara University",
+    "lat": 37.349823,
+    "lng": -121.938927,
+    "image": "https://www.scu.edu/media/public/buildings-rooms-and-spaces/lctcl-view.jpg",
+    "students": ["Anu Malhotra"]
+  },
+  {
+    "college": "Scripps College",
+    "lat": 34.102983,
+    "lng": -117.710266,
+    "image": "https://www.scrippscollege.edu/postbac/wp-content/uploads/sites/17/2018/08/ElisaFerrari-3873.jpg",
+    "students": ["Hanna Cohen"]
+  },
+  {
+    "college": "Seattle University",
+    "lat": 47.609150,
+    "lng": -122.317808,
+    "image": "https://www.greenriver.edu/media/content-assets/images/international/university-transfer/seattle-university-min.jpg",
+    "students": ["Preman Rami"]
+  },
+  {
+    "college": "St Peter's University",
+    "lat": 40.727105,
+    "lng": -74.071541,
+    "image": "https://www.insidehighered.com/sites/default/server_files/media/IMG_0224%20%28002%29.jpg",
+    "students": ["Owen Pringle"]
+  },
+  {
+    "college": "Stanford University",
+    "lat": 37.426816,
+    "lng": -122.170490,
+    "image": "https://news.stanford.edu/wp-content/uploads/2020/08/20200713_Stanford_empty_campus-32-scaled.jpg",
+    "students": ["Ellen Li"]
+  },
+  {
+    "college": "The New School",
+    "lat": 40.735476,
+    "lng": -73.997106,
+    "image": "https://www.tetratech.com/en/images/the-new-school-university-center_pd19-045-960.jpg",
+    "students": ["Neha Marina"]
+  },
+  {
+    "college": "Tufts University",
+    "lat": 42.349806,
+    "lng": -71.061490,
+    "image": "https://www.usnews.com/dims4/USNEWS/8b31b69/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F2f%2Fcd373dee3a899eefd25a8e9970bed8%2F1_131021_7247_campusstock182.jpg",
+    "students": ["Liv Jordan"]
+  },
+  {
+    "college": "University of California Berkeley",
+    "lat": 37.872092,
+    "lng": -122.259443,
+    "image": "https://3nwec1qd4zy21zftr339bla3-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/DD_SASAKI_BERKELEY_V2-Evans_2021_07_30-Update-1800x1013.jpg",
+    "students": ["Lenci Ni"]
+  },
+  {
+    "college": "University of California Los Angeles",
+    "lat": 34.070387,
+    "lng": -118.446774,
+    "image": "https://www.hotelpalomar-beverlyhills.com/images/1700-960/aerial-view-of-ucla-0886e91c.jpg",
+    "students": ["Kamryn Monster"]
+  },
+  {
+    "college": "University of Arizona",
+    "lat": 32.232633,
+    "lng": -110.950171,
+    "image": "https://s.abcnews.com/images/US/arizona-gty-er-200513_hpMain_16x9_992.jpg",
+    "students": ["Jacob Lee", "Ethan Chewning"]
+  },
+  {
+    "college": "University of Arkansas",
+    "lat": 36.067677,
+    "lng": -94.171243,
+    "image": "https://media-exp1.licdn.com/dms/image/C4E1BAQGH_qVnQRywjQ/company-background_10000/0/1519799984028?e=2147483647&v=beta&t=En6OmS05cB7E3s7SdAMVS3zcWvMUycyE4fD4X2byii4",
+    "students": ["Matthew Carr"]
+  },
+  {
+    "college": "University of California San Diego",
+    "lat": 32.880573,
+    "lng": -117.234360,
+    "image": "https://ucsdnews.ucsd.edu/news_uploads/Resized_Geisel_Library_08.31.jpg",
+    "students": ["Durga Nair"]
+  },
+  {
+    "college": "University of California, Davis",
+    "lat": 38.537710,
+    "lng": -121.755402,
+    "image": "https://www.doingcollege.com/wp-content/uploads/2018/02/UC_Davis.jpg",
+    "students": ["Sukanya Nanda"]
+  },
+  {
+    "college": "University of Idaho",
+    "lat": 46.728809,
+    "lng": -117.012624,
+    "image": "https://static.studyusa.com/school/cdn_Gyua28RKNm7R4xG6S3X-GAq8mlkDGUtu.jpg?format=webp",
+    "students": ["Emma Porter", "Kate Macedo"]
+  },
+  {
+    "college": "University of Illinois Chicago",
+    "lat": 41.870008,
+    "lng": -87.648411,
+    "image": "https://www.usnews.com/dims4/USNEWS/e8360be/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F50%2F47e3342d449b4fe8aaf949e9779221%2Fcollege-photo_9966.jpg",
+    "students": ["Mihika Gupta"]
+  },
+  {
+    "college": "University of Iowa",
+    "lat": 41.659239,
+    "lng": -91.542420,
+    "image": "https://cdn.vox-cdn.com/thumbor/VYrV08-ltL9Alih5S9KZ2jxhvc8=/0x0:1600x800/1200x800/filters:focal(672x272:928x528)/cdn.vox-cdn.com/uploads/chorus_image/image/70063478/hero_campus_birdseye_1.0.jpg",
+    "students": ["Jack Archiable"]
+  },
+  {
+    "college": "University of Kentucky",
+    "lat": 38.038946,
+    "lng": -84.504828,
+    "image": "https://static.studyusa.com/school/cdn_K28-Mx80qbmCv3XYKE-o8A9JvUf4VzNz.JPG",
+    "students": ["Makenzie Sexsmith"]
+  },
+  {
+    "college": "University of Michigan",
+    "lat": 42.279516,
+    "lng": -83.735991,
+    "image": "https://cdn.mos.cms.futurecdn.net/AZqG3kSwBwY2pYTiqcRrw9.jpg",
+    "students": ["Isha Gosalia", "Mudit Johar", "Sumedha Kanumuri"]
+  },
+  {
+    "college": "University of Minnesota Twin Cities",
+    "lat": 44.984911,
+    "lng": -93.182430,
+    "image": "https://twin-cities.umn.edu/sites/twin-cities.umn.edu/files/umn-lawn.jpg",
+    "students": ["Matthew Xue"]
+  },
+  {
+    "college": "University of Northern Colorado",
+    "lat": 40.403113,
+    "lng": -104.701531,
+    "image": "https://www.greeleytribune.com/wp-content/uploads/2020/08/GRE-L-UNCMoveIn-AM0058.jpg?w=502",
+    "students": ["Annika Busse"]
+  },
+  {
+    "college": "University of Notre Dame",
+    "lat": 41.703013,
+    "lng": -86.238985,
+    "image": "https://admissions.nd.edu/assets/328579/850x478/campus_aerial.jpg",
+    "students": ["Gabby Klee"]
+  },
+  {
+    "college": "University of Rochester",
+    "lat": 43.128239,
+    "lng": -77.631821,
+    "image": "https://www.rochester.edu/assets/images/2007-10-31_Rush_Rhees_Library_10152.jpg",
+    "students": ["Dina Garber"]
+  },
+  {
+    "college": "University of San Diego",
+    "lat": 32.771417,
+    "lng": -117.188823,
+    "image": "https://ca-times.brightspotcdn.com/dims4/default/8a972db/2147483647/strip/true/crop/840x552+0+0/resize/840x552!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F56%2F39%2F6d62fe4d4c8c99ee0b4214645047%2Fusd.png",
+    "students": ["Cooper Rodocker"]
+  },
+  {
+    "college": "University of San Francisco",
+    "lat": 37.776566,
+    "lng": -122.450384,
+    "image": "https://www.usfca.edu/sites/default/files/news/rankings_2021.jpg",
+    "students": ["Matt Blanton"]
+  },
+  {
+    "college": "University of Southern California",
+    "lat": 34.020968,
+    "lng": -118.285550,
+    "image": "https://d35w6hwqhdq0in.cloudfront.net/cb3e892a776730d22150d67739738f5c.jpg",
+    "students": ["David Aoyama", "Olivia Hunt"]
+  },
+  {
+    "college": "University of St. Thomas",
+    "lat": 44.941003,
+    "lng": -93.189124,
+    "image": "https://www.stthomas.edu/_media-library/_images/home/stthomas-arial-view-of-campus.jpg",
+    "students": ["Kate Colbourne"]
+  },
+  {
+    "college": "University of Tennessee",
+    "lat": 35.956784,
+    "lng": -83.928959,
+    "image": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/knoxville/20150114_Knoxville_AyersHallLaddyFields_0030-cfb1505b5056a34_cfb151e0-5056-a348-3afc05e18c3fe2d4.jpg",
+    "students": ["Alexis Bourdeau"]
+  },
+  {
+    "college": "University of Texas at Austin",
+    "lat": 30.286167,
+    "lng": -97.739410,
+    "image": "https://news.utexas.edu/wp-content/uploads/2020/01/iStock-155441000.jpg",
+    "students": ["Ansh Saxena"]
+  },
+  {
+    "college": "University of Utah",
+    "lat": 40.764998,
+    "lng": -111.848794,
+    "image": "https://www.utah.edu/_resources/images/visitors/banner-visitor.jpg",
+    "students": ["Katie Ahlstrom"]
+  },
+  {
+    "college": "University of Washington Bothell",
+    "lat": 47.758992,
+    "lng": -122.190666,
+    "image": "https://7tocz3x9zff1rsymt3uo0j3f-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/16405692_web1_L1-UWBothellENROLL-edh-190413.jpg",
+    "students": ["Zaynah Ansari"]
+  },
+  {
+    "college": "University of Washington Seattle",
+    "lat": 47.655276,
+    "lng": -122.303543,
+    "image": "https://amath.washington.edu/sites/amath/files/styles/front_slideshow_alternate/public/images/uwquad_istock-516400888.jpg?itok=80qw1lCt&c=4cabe89f6892294bd8c12f4174ef1350",
+    "students": ["Ezra Mason", "Emily Sakamoto", "Jack Haines", "Sanjana Singh", "Ronit Dasgupta", "Emma Smith", "Chloe Adams", "Pravir Goosari", "Swetha Puvvada", "Siya Mistry", "Jamil Islam", "Vaishnavi Pankaj", "Sherry Baik", "Daniel Perez-Castillo", "Justin Tran", "Lydia Grace Hohman", "Mariam Desouky", "Jennah Shalanfeh", "Noah Brandes", "Shweta Narayanan", "Josie Riskin", "Aishwarya Rajaram", "Kina Chong", "Simon Kurgan", "Nicole Wang", "Callie Murakami", "Phillip Volkov", "Alexa Meyer", "Zoya Mir", "Priscilla Hsuing", "Nikki Suneel", "Sean Fan", "Shivani Modi", "Delaney Wu", "Yumi Park", "Parker Hunang", "Morgan Bortnick", "Sarah Neumann", "Shreya Chandra"]
+  },
+  {
+    "college": "University of West Florida",
+    "lat": 30.549071,
+    "lng": -87.218580,
+    "image": "https://www.honorsociety.org/sites/default/files/uni-campus-35141",
+    "students": ["Jade Fontenelle"]
+  },
+  {
+    "college": "University of Wisconsin-Madison",
+    "lat": 43.074425,
+    "lng": -89.403678,
+    "image": "https://www.wisc.edu/images/social-card.jpg",
+    "students": ["David Hall"]
+  },
+  {
+    "college": "Utah Valley University",
+    "lat": 40.278151,
+    "lng": -111.716065,
+    "image": "https://ushe.edu/wp-content/uploads/2019/01/20140829_Willie-in-Flight_0086-copy-1024x667.jpg",
+    "students": ["Jenna Berndt"]
+  },
+  {
+    "college": "Virginia Tech",
+    "lat": 37.228855,
+    "lng": -80.423532,
+    "image": "https://www.commonapp.org/static/8cfafca509bec1c0c938d7c3b1a1bf27/virginia-tech_1117.png",
+    "students": ["Enrico Contrigiani"]
+  },
+  {
+    "college": "Washington State University",
+    "lat": 46.731005,
+    "lng": -117.162332,
+    "image": "https://s3.wp.wsu.edu/uploads/sites/2065/2020/06/Aerial-view-of-Pullman-campus-792x527-1.jpg",
+    "students": ["Lydia Kim", "Dylan Reeves", "Zach Nickel", "Lyndsey Amans", "Lisa Sahar", "Grace Kurtenbach", "Ethan Dutcher", "Maddie Stepherns", "Gage Linzbach", "Amanda Lopez", "Jack Stickney", "Margin Hundrup", "Cristy Mendez"]
+  },
+  {
+    "college": "Western Oregon University",
+    "lat": 44.853725,
+    "lng": -123.238564,
+    "image": "https://www.youniversitytv.com/wp-content/uploads/2017/04/western-oregon.jpg",
+    "students": ["Olivia Johnsrud"]
+  },
+  {
+    "college": "Western Washington University",
+    "lat": 48.739918,
+    "lng": -122.484736,
+    "image": "https://www.usnews.com/dims4/USNEWS/dec69b8/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2F7e%2F93d12b9771901a749bf8b35a43eaeb%2Fcollege-photo_35580.jpg",
+    "students": ["Tristan Rogers", "Avery Robertson", "Schwetha Anand", "Julia Calin", "Ellie Cooper", "Courtney Gest", "Leo Miller", "Celia Fontana", "April Kreider"]
+  }
+]

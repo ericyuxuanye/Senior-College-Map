@@ -1,0 +1,30 @@
+[
+  {
+    "college": "University of Greenwich",
+    "lat": 51.482892,
+    "lng": -0.004948,
+    "image": "https://www.gre.ac.uk/__data/assets/image/0030/119649/varieties/v800.jpg",
+    "students": ["Daniel Dixon"]
+  },
+  {
+    "college": "John Cabot University",
+    "lat": 41.890442,
+    "lng": 12.472293,
+    "image": "https://www.currentschoolnews.com/wp-content/uploads/2020/02/JCU.jpg",
+    "students": ["Elise Schmidt"]
+  },
+  {
+    "college": "Duke Kunshan University",
+    "lat": 31.418015,
+    "lng": 120.893630,
+    "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3WSH6WST6UI6VAGOG6UNIJTMBE.jpg",
+    "students": ["Hailee Cunningham"]
+  },
+  {
+    "college": "University of British Columbia",
+    "lat": 49.261381,
+    "lng": -123.253807,
+    "image": "https://images.dailyhive.com/20180606115422/ubc1.jpg",
+    "students": ["Serena Khatwa"]
+  }
+]

@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import USMap from "./USMap";
+import InternationalMap from "./InternationalMap";
+import ReactTooltip from "react-tooltip";
+import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
+import "react-tabs/style/react-tabs.css";
+import React, { useState } from "react";
 
 function App() {
+  const [content, setContent] = useState("");
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Tabs>
+      <TabList>
+        <Tab>US Map</Tab>
+        <Tab>International Map</Tab>
+      </TabList>
+      <TabPanel>
+        <USMap setTooltipContent={setContent} />
+        <ReactTooltip>{content}</ReactTooltip>
+      </TabPanel>
+      <TabPanel>
+        <InternationalMap setTooltipContent={setContent} />
+        <ReactTooltip>{content}</ReactTooltip>
+      </TabPanel>
+    </Tabs>
   );
 }
 
