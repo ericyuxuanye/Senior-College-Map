@@ -29,14 +29,20 @@ svg {
   text-align: center;
 }
 
-/* Stuff for pop-up */
-.popup-content {
-  margin: auto;
-  background: rgb(255, 255, 255);
+.popup-text {
   padding: 5px 2em;
-  border-radius: 1em;
+  text-align: center;
   overflow-y: auto;
   max-height: 100vh;
+}
+
+/* Stuff for pop-up */
+.popup-content {
+  margin: 0;
+  background: rgb(255, 255, 255);
+  border-radius: 1em;
+  max-height: 100vh;
+  position: relative;
 }
 .popup-overlay {
   background: rgba(0, 0, 0, 0.5);
@@ -44,8 +50,8 @@ svg {
 
 .popup-close {
   position: absolute;
-  top: -20px;
-  right: -30px;
+  top: 10px;
+  right: 10px;
   width: 2em;
   height: 2em;
   font-size: 20px;
