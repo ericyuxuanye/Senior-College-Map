@@ -36,12 +36,13 @@ function App() {
         </TabList>
         <TabPanel>
           <USMap setTooltipContent={setContent} popup={popup} />
+          <ReactTooltip>{content}</ReactTooltip>
         </TabPanel>
         <TabPanel>
           <InternationalMap setTooltipContent={setContent} popup={popup} />
+          <ReactTooltip>{content}</ReactTooltip>
         </TabPanel>
       </Tabs>
-      <ReactTooltip>{content}</ReactTooltip>
       <Popup
         open={open}
         modal
