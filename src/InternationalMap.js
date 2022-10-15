@@ -12,7 +12,7 @@ import international_colleges from "./international_colleges.json";
 const colleges = us_colleges.concat(international_colleges);
 
 const geoUrl =
-  "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
+  "https://raw.githubusercontent.com/deldersveld/topojson/master/world-countries.json";
 
 const InternationlMap = ({ setTooltipContent, popup }) => {
   const [scaleFactor, setScaleFactor] = useState(1);
